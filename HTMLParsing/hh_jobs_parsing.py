@@ -53,11 +53,9 @@ for vacancy in vacancies:
             if isinstance(el, str):
                 if el == 'от':
                     salary_data['min'] = next_el
-                    i += 1
                     continue
                 if el == 'до':
                     salary_data['max'] = next_el
-                    i += 1
                     continue
                 if el == '–':
                     salary_data['min'] = salary[i - 1]
