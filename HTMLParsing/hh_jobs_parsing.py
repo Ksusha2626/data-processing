@@ -1,3 +1,4 @@
+import json
 from pprint import pprint
 
 import requests
@@ -73,3 +74,7 @@ for vacancy in vacancies:
     vacancies_list.append(vacancies_data)
 
 pprint(vacancies_list)
+
+with open("jobs_info.json", 'w') as f:
+    f.write(
+        json.dumps(vacancies_list, indent=4, ensure_ascii=False))
