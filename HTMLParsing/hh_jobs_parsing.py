@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 HH_URL = 'https://hh.ru/search/vacancy'
 MINSK_AREA = 1002
 VACANCY = 'QA'
-PAGE = 2
+PAGE = 1
 params = {'area': MINSK_AREA,
           'text': VACANCY,
           'page': PAGE}
@@ -53,14 +53,11 @@ for vacancy in vacancies:
             if isinstance(el, str):
                 if el == 'от':
                     salary_data['min'] = next_el
-                    continue
-                if el == 'до':
+                elif el == 'до':
                     salary_data['max'] = next_el
-                    continue
-                if el == '–':
+                elif el == '–':
                     salary_data['min'] = salary[i - 1]
                     salary_data['max'] = next_el
-                    continue
                 else:
                     salary_data['currency'] += el
             continue
