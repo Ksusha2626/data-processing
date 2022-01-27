@@ -18,66 +18,72 @@ from bs4 import BeautifulSoup
 HH_URL = 'https://hh.ru/search/vacancy'
 MINSK_AREA = 1002
 VACANCY = 'QA'
-PAGE = 0
-params = {'area': MINSK_AREA,
+PARAMS = {'area': MINSK_AREA,
           'text': VACANCY,
-          'page': PAGE}
-headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+          'page': 5}
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
                          'AppleWebKit/537.36 (KHTML, like Gecko) '
                          'Chrome/97.0.4692.71 Safari/537.36'}
 
-dom = BeautifulSoup(requests.get(HH_URL, params=params, headers=headers).text,
-                    'html.parser')
 
-job_list = dom.select('div.vacancy-serp-item')
-
-jobs = []
-while job_list:
-    for job in job_list:
-        title_info = job.find('a', {'data-qa': 'vacancy-serp__vacancy-title'})
-        job_data = {'title': title_info.getText().replace('\xa0', ' '),
-                    'link': title_info.get('href')}
-        salary = job.find('span', {'data-qa': 'vacancy-serp__vacancy-compensation'})
-        salary_data = {'min': int(), 'max': int(), 'currency': ''}
-        if salary:
-            salary_list = salary.getText().replace('\u202f', '').split()
-            if salary_list[0].isalpha():
-                if salary_list[0] == 'от':
-                    salary_data['min'] = int(salary_list[1])
-                    salary_data['max'] = None
-                    salary_data['currency'] = salary_list[-1]
-                else:
-                    salary_data['min'] = None
-                    salary_data['max'] = int(salary_list[1])
-                    salary_data['currency'] = salary_list[-1]
+def parse_salary(salary):
+    salary_data = {'min': int(), 'max': int(), 'currency': ''}
+    if salary:
+        salary_list = salary.getText().replace('\u202f', '').split()
+        if salary_list[0].isalpha():
+            if salary_list[0] == 'от':
+                salary_data['min'] = int(salary_list[1])
+                salary_data['max'] = None
+                salary_data['currency'] = salary_list[-1]
             else:
-                salary_data['min'] = int(salary_list[0])
-                salary_data['max'] = int(salary_list[2])
+                salary_data['min'] = None
+                salary_data['max'] = int(salary_list[1])
                 salary_data['currency'] = salary_list[-1]
         else:
-            salary_data['min'] = None
-            salary_data['max'] = None
-            salary_data['currency'] = None
+            salary_data['min'] = int(salary_list[0])
+            salary_data['max'] = int(salary_list[2])
+            salary_data['currency'] = salary_list[-1]
+    else:
+        salary_data['min'] = None
+        salary_data['max'] = None
+        salary_data['currency'] = None
+    return salary_data
 
-        job_data['source'] = 'https://hh.ru'
-        job_data['salary'] = salary_data
 
-        jobs.append(job_data)
-    PAGE += 1
-    params.update({'page': PAGE})
+def parse_jobs():
+    page = PARAMS.get('page')
     dom = BeautifulSoup(
-        requests.get(HH_URL, params=params, headers=headers).text,
+        requests.get(HH_URL, params=PARAMS, headers=HEADERS).text,
         'html.parser')
     job_list = dom.select('div.vacancy-serp-item')
+    jobs = []
+    while job_list:
+        for job in job_list:
+            title_info = job.find('a', {'data-qa': 'vacancy-serp__vacancy-title'})
+            job_data = {'title': title_info.getText().replace('\xa0', ' '),
+                        'link': title_info.get('href')}
+            salary = job.find('span', {'data-qa': 'vacancy-serp__vacancy-compensation'})
+            job_data['source'] = 'https://hh.ru'
+            job_data['salary'] = parse_salary(salary)
+            jobs.append(job_data)
+        page += 1
+        PARAMS.update({'page': page})
+        dom = BeautifulSoup(
+            requests.get(HH_URL, params=PARAMS, headers=HEADERS).text,
+            'html.parser')
+        job_list = dom.select('div.vacancy-serp-item')
+    return jobs
 
-df = pd.DataFrame(jobs)
-df.to_csv('output.csv', sep='\t', encoding='utf-8')
-print(df)
-pprint(jobs)
 
-with open("jobs_info.json", 'w') as f:
-    f.write(
-        json.dumps(jobs, indent=4, ensure_ascii=False))
+if __name__ == '__main__':
+    jobs = parse_jobs()
+    df = pd.DataFrame(jobs)
+    df.to_csv('output.csv', sep='\t', encoding='utf-8')
+    print(df.to_string())
+
+    with open("jobs_info.json", 'w') as f:
+        f.write(
+            json.dumps(jobs, indent=4, ensure_ascii=False))
 
 # 2 salary-parsing algorithm option
 # salary_data = {'min': None, 'max': None, 'currency': ''}

@@ -1,202 +1,402 @@
 [
     {
-        "title": "QA Engineer",
+        "title": "System Analyst (Tinkoff International)",
+        "link": "https://hh.ru/vacancy/50340550?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/49867544?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
     },
     {
-        "title": "Mobile QA Engineer",
+        "title": "Middle/Senior Business Analyst",
+        "link": "https://hh.ru/vacancy/50440962?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50708310?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
     },
     {
-        "title": "QA Automation Engineer (Java)",
+        "title": "Бизнес-аналитик",
+        "link": "https://hh.ru/vacancy/50862509?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50998164?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
     },
     {
-        "title": "QA engineer manual/Интерн",
+        "title": "Lead Recruiter",
+        "link": "https://hh.ru/vacancy/50874075?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50988362?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
     },
     {
-        "title": "Mobile QA Engineer ( Middle/Senior)",
+        "title": "Senior Java Developer (Tinkoff International)",
+        "link": "https://hh.ru/vacancy/50505397?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/51211757?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
     },
     {
-        "title": "Game QA Automation Lead",
+        "title": "Senior Business Analyst",
+        "link": "https://hh.ru/vacancy/50858443?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/49128652?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
     },
     {
-        "title": "Junior Software Development Engineer in Test (Automation QA)",
+        "title": "Senior Project Manager with German language / Projekt Manager",
+        "link": "https://hh.ru/vacancy/50474989?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50848669?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
     },
     {
-        "title": "QA Engineer (auto/manual Ruby)",
-        "salary": {
-            "min": 2400,
-            "max": null,
-            "currency": "USD"
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50987665?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
-    },
-    {
-        "title": "Head of QA department",
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/46473125?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
-    },
-    {
-        "title": "QA Automation engineer",
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50810546?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
-    },
-    {
-        "title": "QA specialist",
+        "title": "Junior Web Developer",
+        "link": "https://hh.ru/vacancy/43602307?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": 1000,
-            "max": 1700,
-            "currency": "USD"
-        },
-        "vacancy_url": "https://hh.ru/vacancy/51105043?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
-    },
-    {
-        "title": "Middle QA Engineer",
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50731149?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
-    },
-    {
-        "title": "Mobile QA Engineer (AdTech)",
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/48867449?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
-    },
-    {
-        "title": "Middle/Senior QA Engineer",
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50762864?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
-    },
-    {
-        "title": "QA Automation Engineer",
-        "salary": {
-            "min": null,
-            "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50917236?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
-    },
-    {
-        "title": "QA Engineer (Manual)",
-        "salary": {
-            "min": null,
-            "max": 1000,
-            "currency": "USD"
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50874252?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
-    },
-    {
-        "title": "QA Auto C#",
-        "salary": {
-            "min": 2000,
             "max": null,
             "currency": "USD"
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50973452?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+        }
     },
     {
-        "title": "QA Engineer",
+        "title": "Editor",
+        "link": "https://hh.ru/vacancy/50878654?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/51052746?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
     },
     {
-        "title": "Mobile QA Engineer (mid/sen level)",
+        "title": "Middle/Senior Frontend разработчик (Vue.js)",
+        "link": "https://hh.ru/vacancy/43601395?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": 1000,
+            "max": 4000,
+            "currency": "USD"
+        }
+    },
+    {
+        "title": "Senior Software Test Automation Engineer (Java)",
+        "link": "https://hh.ru/vacancy/50830170?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/44204057?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
     },
     {
-        "title": "Middle QA Analyst",
+        "title": "Креативный копирайтер",
+        "link": "https://hh.ru/vacancy/50865181?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
         "salary": {
             "min": null,
             "max": null,
-            "currency": ""
-        },
-        "vacancy_url": "https://hh.ru/vacancy/50933592?from=vacancy_search_list&query=QA&hhtmFrom=vacancy_search_list",
-        "source": "https://hh.ru"
+            "currency": null
+        }
+    },
+    {
+        "title": "Финансист",
+        "link": "https://hh.ru/vacancy/50869172?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": ".Net Developer (middle)",
+        "link": "https://hh.ru/vacancy/48705572?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Expert Automation QA Engineer for Ciklum Digital (TUI)",
+        "link": "https://hh.ru/vacancy/50755650?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Маркетолог (лидогенерация)",
+        "link": "https://hh.ru/vacancy/50830948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Лидогенератор-маркетолог",
+        "link": "https://hh.ru/vacancy/50830944?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "LinkBuilder / Линкбилдер",
+        "link": "https://hh.ru/vacancy/49424354?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": 800,
+            "max": 1500,
+            "currency": "USD"
+        }
+    },
+    {
+        "title": "Researcher",
+        "link": "https://hh.ru/vacancy/50808507?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Middle/Senior Mobile Developer (Flutter)",
+        "link": "https://hh.ru/vacancy/50814119?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Business Analyst",
+        "link": "https://hh.ru/vacancy/49280974?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "SAPUI5 Developer",
+        "link": "https://hh.ru/vacancy/50767555?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "IT Recruiter",
+        "link": "https://hh.ru/vacancy/50095224?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Process Master",
+        "link": "https://hh.ru/vacancy/50766486?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Java Web Developer",
+        "link": "https://hh.ru/vacancy/50009681?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": 3500,
+            "max": null,
+            "currency": "USD"
+        }
+    },
+    {
+        "title": "Middle/Senior Business Analyst (OpenL)",
+        "link": "https://hh.ru/vacancy/46684733?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Junior Business Analyst (лаборатория)",
+        "link": "https://hh.ru/vacancy/50754062?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Front-end developer (React)",
+        "link": "https://hh.ru/vacancy/45144225?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Fullstack Developer (.Net + JS)",
+        "link": "https://hh.ru/vacancy/50747951?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Unity developer (Ugraph)",
+        "link": "https://hh.ru/vacancy/50731237?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Unity developer (Infrastructure)",
+        "link": "https://hh.ru/vacancy/50731167?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Python/Django developer",
+        "link": "https://hh.ru/vacancy/50801823?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Angular developer",
+        "link": "https://hh.ru/vacancy/50815375?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": 500,
+            "max": 2000,
+            "currency": "USD"
+        }
+    },
+    {
+        "title": "IOS developer",
+        "link": "https://hh.ru/vacancy/50636578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Android Developer",
+        "link": "https://hh.ru/vacancy/50636515?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Test Automation manager",
+        "link": "https://hh.ru/vacancy/50222085?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "QA Engineer (Gamedev)",
+        "link": "https://hh.ru/vacancy/50947331?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "Mid/Senior Android Kotlin engineer for project",
+        "link": "https://hh.ru/vacancy/51674503?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": 2400,
+            "max": 3500,
+            "currency": "USD"
+        }
+    },
+    {
+        "title": "Frontend Engineer",
+        "link": "https://hh.ru/vacancy/48317915?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
+    },
+    {
+        "title": "IT Рекрутер / Ресечер",
+        "link": "https://hh.ru/vacancy/51807073?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA",
+        "source": "https://hh.ru",
+        "salary": {
+            "min": null,
+            "max": null,
+            "currency": null
+        }
     }
 ]

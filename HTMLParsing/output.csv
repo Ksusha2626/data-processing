@@ -1,221 +1,41 @@
 	title	link	source	salary
-0	Junior Manual QA	https://hh.ru/vacancy/49361439?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-1	Manual QA Engineer (Jackpot)	https://hh.ru/vacancy/50135100?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-2	Middle QA Engineer	https://hh.ru/vacancy/51409981?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-3	QA Engineer (Manual + Auto)	https://hh.ru/vacancy/48535843?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-4	Middle/Senior Manual QA Engineer	https://hh.ru/vacancy/45187637?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-5	Senior QA Engineer	https://hh.ru/vacancy/50153927?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-6	Senior QA Engineer	https://hh.ru/vacancy/50762836?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-7	Middle/Senior QA Engineer	https://hh.ru/vacancy/50762864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-8	Junior QA Automation Engineer	https://hh.ru/vacancy/51416713?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-9	Quality Assurance Engineer	https://hh.ru/vacancy/49117256?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-10	QA Engineer	https://hh.ru/vacancy/51412264?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-11	Senior QA Automation Engineer	https://hh.ru/vacancy/50763045?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-12	Senior QA Automation Engineer (Java)	https://hh.ru/vacancy/51433052?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-13	Тестировщик ПО	https://hh.ru/vacancy/51258734?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 1000, 'max': None, 'currency': 'руб.'}
-14	Junior QA manual Engineer	https://hh.ru/vacancy/51792645?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-15	QA Engineer	https://hh.ru/vacancy/51648128?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-16	QA Engineer	https://hh.ru/vacancy/51406689?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-17	Тестировщик ПО (QA specialist)	https://hh.ru/vacancy/51205244?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-18	Junior+ QA Engineer (web)	https://hh.ru/vacancy/51267026?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-19	QA engineer	https://hh.ru/vacancy/50906655?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-20	Senior Mobile QA Engineer	https://hh.ru/vacancy/51702365?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-21	QA Engineer (Web)	https://hh.ru/vacancy/49831283?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-22	QA Engineer (middle)	https://hh.ru/vacancy/50784589?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-23	QA Engineer	https://hh.ru/vacancy/51435709?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 2000, 'max': None, 'currency': 'USD'}
-24	QA Engineer (backend)	https://hh.ru/vacancy/50736360?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-25	Middle QA Engineer	https://hh.ru/vacancy/50918326?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-26	Junior Manual QA Engineer	https://hh.ru/vacancy/51422311?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-27	QA Engineer (Mobile)	https://hh.ru/vacancy/49832945?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-28	Тестировщик ПО-стажер	https://hh.ru/vacancy/51195922?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-29	Middle QA Engineer	https://hh.ru/vacancy/50800673?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-30	QA Engineer	https://hh.ru/vacancy/40701473?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-31	Middle QA Engineer	https://hh.ru/vacancy/51656738?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-32	Software Tester / QA Engineer - Disaster Management	https://hh.ru/vacancy/49885532?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 1000, 'max': 2500, 'currency': 'USD'}
-33	QA Mobile	https://hh.ru/vacancy/50826851?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-34	QA Engineer (Middle)	https://hh.ru/vacancy/51214834?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-35	Middle QA Engineer	https://hh.ru/vacancy/50174755?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-36	QA Automation Engineer	https://hh.ru/vacancy/51188571?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-37	Middle QA	https://hh.ru/vacancy/49768168?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-38	QA Engineer (Backend)	https://hh.ru/vacancy/45106790?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-39	QA Engineer	https://hh.ru/vacancy/51411249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-40	QA Lead (Менеджер процесса тестирования)	https://hh.ru/vacancy/50793440?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-41	QA Automation Engineer	https://hh.ru/vacancy/51731277?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-42	Middle QA Engineer	https://hh.ru/vacancy/38639944?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-43	QA Engineer	https://hh.ru/vacancy/46174015?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-44	Middle / Senior QA Engineer	https://hh.ru/vacancy/51211762?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-45	Mobile QA Engineer (mid/sen level)	https://hh.ru/vacancy/44204057?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-46	Game QA Automation Lead	https://hh.ru/vacancy/49128652?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-47	QA Engineer Automation (Middle)	https://hh.ru/vacancy/50973776?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-48	QA Test Engineer	https://hh.ru/vacancy/50566141?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-49	Middle QA Engineer	https://hh.ru/vacancy/50731149?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-50	Junior Software Development Engineer in Test (Automation QA)	https://hh.ru/vacancy/50848669?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-51	QA Automation Engineer	https://hh.ru/vacancy/51636993?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-52	QA Automation Engineer	https://hh.ru/vacancy/50917236?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-53	Manual QA Engineer/ тестировщик (middle/senior)	https://hh.ru/vacancy/51187068?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-54	Middle QA Analyst	https://hh.ru/vacancy/50933592?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-55	QA Automation engineer	https://hh.ru/vacancy/50810546?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-56	Automation QA Engineer	https://hh.ru/vacancy/48059580?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 1000, 'max': None, 'currency': 'USD'}
-57	Middle QA Specialist	https://hh.ru/vacancy/51337475?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-58	QA инженер (FinTech)	https://hh.ru/vacancy/50951509?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 150000, 'max': None, 'currency': 'руб.'}
-59	Mobile QA Engineer (AdTech)	https://hh.ru/vacancy/48867449?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-60	QA Manual	https://hh.ru/vacancy/48042991?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-61	QA Team Lead	https://hh.ru/vacancy/51003001?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-62	Manual QA Engineer	https://hh.ru/vacancy/50418535?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-63	QA Engineer	https://hh.ru/vacancy/50995021?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-64	QA Automation Engineer	https://hh.ru/vacancy/49818449?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-65	QA Engineer	https://hh.ru/vacancy/50845474?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-66	QA Engineer	https://hh.ru/vacancy/50639850?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-67	Middle QA Engineer	https://hh.ru/vacancy/51032978?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-68	Manual QA Tester / Тэсціроўшчык	https://hh.ru/vacancy/50656670?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-69	QA Engineer (Mobile)	https://hh.ru/vacancy/50865655?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-70	QA manual engineer	https://hh.ru/vacancy/50898106?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-71	Web QA Engineer (B2B)	https://hh.ru/vacancy/51202425?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-72	Manual QA Engineer Remote (Middle)	https://hh.ru/vacancy/50858136?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-73	Middle QA Engineer (Mobile Games)	https://hh.ru/vacancy/51219796?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-74	QA Engineer	https://hh.ru/vacancy/50011363?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-75	QA Engineer (My Cafe)	https://hh.ru/vacancy/50796557?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-76	Junior QA Automation Engineer/Стажер	https://hh.ru/vacancy/50802718?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-77	Mobile QA Engineer ( Middle/Senior)	https://hh.ru/vacancy/51211757?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-78	QA Engineer (Middle+)	https://hh.ru/vacancy/51178220?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-79	QA Engineer (manual)	https://hh.ru/vacancy/48622707?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-80	Middle+/Senior QA engineer	https://hh.ru/vacancy/50026246?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-81	QA Automation Engineer (JS)	https://hh.ru/vacancy/50753232?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-82	QA Engineer	https://hh.ru/vacancy/50218127?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-83	Middle QA Engineer	https://hh.ru/vacancy/49758646?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-84	QA Engineer	https://hh.ru/vacancy/46472993?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-85	QA Engineer	https://hh.ru/vacancy/50866850?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-86	QA Automation Engineer	https://hh.ru/vacancy/50865677?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-87	Mobile QA Engineer	https://hh.ru/vacancy/50794276?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-88	Senior QA Engineer	https://hh.ru/vacancy/50977386?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-89	QA engineer (mobile)	https://hh.ru/vacancy/50749892?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-90	QA Engineer (web)	https://hh.ru/vacancy/49298423?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-91	QA Engineer	https://hh.ru/vacancy/47670706?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-92	Automation QA Engineer	https://hh.ru/vacancy/47791199?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-93	Senior QA Engineer	https://hh.ru/vacancy/50439489?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-94	Senior/Tech Lead QA Automation Engineer (Python)	https://hh.ru/vacancy/51032963?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-95	"QA manual (преподаватель курсов ""Тестирование программного обеспечения"")"	https://hh.ru/vacancy/50812164?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-96	Middle QA Engineer	https://hh.ru/vacancy/50736615?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-97	Middle Mobile/Web QA Engineer	https://hh.ru/vacancy/50084749?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-98	QA Engineer	https://hh.ru/vacancy/50211464?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-99	QA Automation Engineer	https://hh.ru/vacancy/49496342?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-100	Senior QA Engineer	https://hh.ru/vacancy/51435791?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-101	QA Engineer (Минск) Manual / Junior Automation	https://hh.ru/vacancy/50919294?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-102	Mobile QA Engineer	https://hh.ru/vacancy/50803773?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 2000, 'max': None, 'currency': 'USD'}
-103	QA integration	https://hh.ru/vacancy/50756141?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-104	QA Automation Engineer (Middle, Senior)	https://hh.ru/vacancy/51095305?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 1500, 'max': 3000, 'currency': 'USD'}
-105	QA Engineer/ Тестировщик ПО	https://hh.ru/vacancy/50816585?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-106	Senior QA Automation Engineer	https://hh.ru/vacancy/50405525?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-107	Automation QA Engineer	https://hh.ru/vacancy/50794905?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-108	QA Engineer	https://hh.ru/vacancy/50771524?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-109	Менеджер IT-проектов (с опытом QA или разработчика)	https://hh.ru/vacancy/50029950?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-110	Python developer	https://hh.ru/vacancy/48331830?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-111	Technical Writer	https://hh.ru/vacancy/50134348?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-112	Technical Support Engineer (L3)	https://hh.ru/vacancy/44299382?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-113	Специалист по тестированию / QA engineer (тестировщик)	https://hh.ru/vacancy/51083865?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 1200, 'max': None, 'currency': 'USD'}
-114	Junior QA Engineer	https://hh.ru/vacancy/50726234?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-115	Junior Trainee Quality Assurance Specialist	https://hh.ru/vacancy/51650669?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 300, 'max': 600, 'currency': 'USD'}
-116	QA Automation Engineer (Java)	https://hh.ru/vacancy/50998164?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-117	Middle/Senior Backend QA Engineer	https://hh.ru/vacancy/47760147?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-118	QA Automation Engineer (Java)	https://hh.ru/vacancy/49975597?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-119	Junior Java Developer (лаборатория)	https://hh.ru/vacancy/51420788?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-120	Java developer (Big data)	https://hh.ru/vacancy/50905850?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-121	Front-End (React) Developer (Blockchain Startup)	https://hh.ru/vacancy/51059684?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-122	Product Manager	https://hh.ru/vacancy/50936577?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-123	Senior Android Developer	https://hh.ru/vacancy/50584216?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-124	Business Analyst / Project Manager	https://hh.ru/vacancy/51791503?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-125	IT Project manager	https://hh.ru/vacancy/51201937?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-126	Layout designer/ Technical Artist(Game Integrator)	https://hh.ru/vacancy/50489115?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-127	Senior Project Manager	https://hh.ru/vacancy/51085362?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-128	Business Analyst	https://hh.ru/vacancy/51422947?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-129	Solution Architect (web)	https://hh.ru/vacancy/50787128?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-130	IT recruiter	https://hh.ru/vacancy/51801456?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-131	Project Manager	https://hh.ru/vacancy/50792796?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-132	.NET Developer (Opportunity 2)	https://hh.ru/vacancy/50922500?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-133	Linux System Engineer/DevOps	https://hh.ru/vacancy/51352184?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-134	Localization manager	https://hh.ru/vacancy/51254034?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-135	Бизнес-аналитик	https://hh.ru/vacancy/51255666?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-136	Middle/Senior IOS Developer	https://hh.ru/vacancy/47293464?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-137	WPF C# разработчик	https://hh.ru/vacancy/51197555?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-138	Senior Golang Developer	https://hh.ru/vacancy/51028889?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-139	Senior python developer (Feedback team)	https://hh.ru/vacancy/51628774?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-140	.NET Developer (Middle+ / Senior)	https://hh.ru/vacancy/51605222?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-141	.NET Developer (Middle+ / Senior)	https://hh.ru/vacancy/51626579?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-142	Аccountant	https://hh.ru/vacancy/51802192?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-143	Frontend Engineer (Angular)	https://hh.ru/vacancy/48252453?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-144	Node.js Engineer	https://hh.ru/vacancy/51539013?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-145	Senior/TL Java Developer	https://hh.ru/vacancy/51512971?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-146	DevOps Engineer	https://hh.ru/vacancy/50641448?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-147	Automation Test Engineer	https://hh.ru/vacancy/48653970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-148	Middle/Senior Business Analyst (Services)	https://hh.ru/vacancy/51492454?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-149	Blockchain consultant	https://hh.ru/vacancy/51483497?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-150	First Line Support Analyst	https://hh.ru/vacancy/49816675?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-151	Business Analyst	https://hh.ru/vacancy/49041983?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-152	Talent Acquisition Specialist	https://hh.ru/vacancy/50642615?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-153	Администратор учебного центра	https://hh.ru/vacancy/51481348?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-154	Technical Recruiter	https://hh.ru/vacancy/50340635?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-155	Senior Technical Recruiter	https://hh.ru/vacancy/50513542?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-156	Software Engineer, Traffic	https://hh.ru/vacancy/51437489?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-157	Senior Software Engineer, Traffic	https://hh.ru/vacancy/51436961?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-158	Business analyst / Project coordinator	https://hh.ru/vacancy/51430796?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-159	Software Architect	https://hh.ru/vacancy/51398092?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-160	Business analyst BI Team	https://hh.ru/vacancy/51091581?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-161	Junior QA Automation Engineer (Trainee / Students Lab)	https://hh.ru/vacancy/51051405?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-162	QA Automation Engineer (Python) - Disaster Management	https://hh.ru/vacancy/43193072?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 1500, 'max': 3000, 'currency': 'USD'}
-163	Front-End Developer	https://hh.ru/vacancy/51085401?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-164	Senior Front-End Developer	https://hh.ru/vacancy/50474563?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-165	SAP Scrum Master	https://hh.ru/vacancy/51059722?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-166	Business Analyst	https://hh.ru/vacancy/51040217?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-167	Middle Mobile Manual QA (Game Department)	https://hh.ru/vacancy/51011613?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-168	Automation QA engineer Web	https://hh.ru/vacancy/51005135?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-169	DevOps Engineer (Azure)	https://hh.ru/vacancy/51033852?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-170	Senior JavaScript Developer	https://hh.ru/vacancy/51035455?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-171	IT recruiter	https://hh.ru/vacancy/51219340?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-172	Recruiter (IT &Business)	https://hh.ru/vacancy/51000346?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-173	Lead Compliance Assurance Engineer	https://hh.ru/vacancy/50974107?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-174	Project Manager	https://hh.ru/vacancy/50999278?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-175	Process Engineer (Analyst)	https://hh.ru/vacancy/50973787?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-176	Техник-тестировщик	https://hh.ru/vacancy/50951869?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-177	Business Analyst	https://hh.ru/vacancy/50995570?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-178	UX/UI Designer	https://hh.ru/vacancy/51005319?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-179	Head of Ads Monetization	https://hh.ru/vacancy/50998312?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-180	.Net Developer (middle)	https://hh.ru/vacancy/48705572?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-181	Маркетолог (лидогенерация)	https://hh.ru/vacancy/50830948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-182	Лидогенератор-маркетолог	https://hh.ru/vacancy/50830944?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-183	LinkBuilder / Линкбилдер	https://hh.ru/vacancy/49424354?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 800, 'max': 1500, 'currency': 'USD'}
-184	Researcher	https://hh.ru/vacancy/50808507?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-185	Middle/Senior Mobile Developer (Flutter)	https://hh.ru/vacancy/50814119?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-186	Java Backend Developer	https://hh.ru/vacancy/50363378?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-187	Senior Python Developer	https://hh.ru/vacancy/48881114?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-188	Senior React Native Developer	https://hh.ru/vacancy/45595375?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-189	Project Manager (Game Development)	https://hh.ru/vacancy/50802364?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-190	Front-end Developer (React)	https://hh.ru/vacancy/50811903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-191	Junior .NET Software Engineer	https://hh.ru/vacancy/50801614?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-192	Delivery Manager	https://hh.ru/vacancy/50801484?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-193	Talent Acquisition Specialist	https://hh.ru/vacancy/50801875?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-194	Преподаватель по QA	https://hh.ru/vacancy/50793996?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 600, 'max': 1200, 'currency': 'руб.'}
-195	Node.js Full Stack Developer	https://hh.ru/vacancy/50805726?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-196	Senior Front-end Developer (React)	https://hh.ru/vacancy/48604290?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-197	Solution Developer / Software Engineer (Services)	https://hh.ru/vacancy/41710672?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-198	Solidity developer	https://hh.ru/vacancy/50791343?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-199	Data Engineer (Java)	https://hh.ru/vacancy/47685119?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-200	Unity developer (Infrastructure)	https://hh.ru/vacancy/50731167?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-201	Angular developer	https://hh.ru/vacancy/50815375?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 500, 'max': 2000, 'currency': 'USD'}
-202	IOS developer	https://hh.ru/vacancy/50636578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-203	Android Developer	https://hh.ru/vacancy/50636515?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-204	Test Automation manager	https://hh.ru/vacancy/50222085?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-205	Mid/Senior Android Kotlin engineer for project	https://hh.ru/vacancy/51674503?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 2400, 'max': 3500, 'currency': 'USD'}
-206	Frontend Engineer	https://hh.ru/vacancy/48317915?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-207	IT Рекрутер / Ресечер	https://hh.ru/vacancy/51807073?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-208	Javascript Full-stack developer	https://hh.ru/vacancy/51478747?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-209	Unity developer (Hypercasual)	https://hh.ru/vacancy/50555792?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-210	Technical writer	https://hh.ru/vacancy/51207727?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-211	Support manager	https://hh.ru/vacancy/51181502?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-212	Cтажёр-разработчик автоматизированных тестов	https://hh.ru/vacancy/51149727?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-213	Account/support manager с английским	https://hh.ru/vacancy/50951479?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': 4000, 'currency': 'руб.'}
-214	Customer Education Specialist	https://hh.ru/vacancy/50939174?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-215	Blockchain consultant (Analyst/Researcher)	https://hh.ru/vacancy/50922723?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-216	Lead Generation Specialist	https://hh.ru/vacancy/50943230?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-217	Business Analyst	https://hh.ru/vacancy/50801528?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-218	React Native Developer	https://hh.ru/vacancy/50804034?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
-219	Менеджер отдела продаж IT продукта	https://hh.ru/vacancy/50802594?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 900, 'max': None, 'currency': 'руб.'}
+0	System Analyst (Tinkoff International)	https://hh.ru/vacancy/50340550?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+1	Middle/Senior Business Analyst	https://hh.ru/vacancy/50440962?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+2	Бизнес-аналитик	https://hh.ru/vacancy/50862509?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+3	Lead Recruiter	https://hh.ru/vacancy/50874075?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+4	Senior Java Developer (Tinkoff International)	https://hh.ru/vacancy/50505397?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+5	Senior Business Analyst	https://hh.ru/vacancy/50858443?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+6	Senior Project Manager with German language / Projekt Manager	https://hh.ru/vacancy/50474989?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+7	Junior Web Developer	https://hh.ru/vacancy/43602307?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 1000, 'max': None, 'currency': 'USD'}
+8	Editor	https://hh.ru/vacancy/50878654?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+9	Middle/Senior Frontend разработчик (Vue.js)	https://hh.ru/vacancy/43601395?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 1000, 'max': 4000, 'currency': 'USD'}
+10	Senior Software Test Automation Engineer (Java)	https://hh.ru/vacancy/50830170?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+11	Креативный копирайтер	https://hh.ru/vacancy/50865181?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+12	Финансист	https://hh.ru/vacancy/50869172?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+13	.Net Developer (middle)	https://hh.ru/vacancy/48705572?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+14	Expert Automation QA Engineer for Ciklum Digital (TUI)	https://hh.ru/vacancy/50755650?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+15	Маркетолог (лидогенерация)	https://hh.ru/vacancy/50830948?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+16	Лидогенератор-маркетолог	https://hh.ru/vacancy/50830944?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+17	LinkBuilder / Линкбилдер	https://hh.ru/vacancy/49424354?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 800, 'max': 1500, 'currency': 'USD'}
+18	Researcher	https://hh.ru/vacancy/50808507?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+19	Middle/Senior Mobile Developer (Flutter)	https://hh.ru/vacancy/50814119?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+20	Business Analyst	https://hh.ru/vacancy/49280974?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+21	SAPUI5 Developer	https://hh.ru/vacancy/50767555?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+22	IT Recruiter	https://hh.ru/vacancy/50095224?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+23	Process Master	https://hh.ru/vacancy/50766486?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+24	Java Web Developer	https://hh.ru/vacancy/50009681?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 3500, 'max': None, 'currency': 'USD'}
+25	Middle/Senior Business Analyst (OpenL)	https://hh.ru/vacancy/46684733?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+26	Junior Business Analyst (лаборатория)	https://hh.ru/vacancy/50754062?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+27	Front-end developer (React)	https://hh.ru/vacancy/45144225?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+28	Fullstack Developer (.Net + JS)	https://hh.ru/vacancy/50747951?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+29	Unity developer (Ugraph)	https://hh.ru/vacancy/50731237?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+30	Unity developer (Infrastructure)	https://hh.ru/vacancy/50731167?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+31	Python/Django developer	https://hh.ru/vacancy/50801823?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+32	Angular developer	https://hh.ru/vacancy/50815375?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 500, 'max': 2000, 'currency': 'USD'}
+33	IOS developer	https://hh.ru/vacancy/50636578?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+34	Android Developer	https://hh.ru/vacancy/50636515?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+35	Test Automation manager	https://hh.ru/vacancy/50222085?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+36	QA Engineer (Gamedev)	https://hh.ru/vacancy/50947331?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+37	Mid/Senior Android Kotlin engineer for project	https://hh.ru/vacancy/51674503?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': 2400, 'max': 3500, 'currency': 'USD'}
+38	Frontend Engineer	https://hh.ru/vacancy/48317915?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
+39	IT Рекрутер / Ресечер	https://hh.ru/vacancy/51807073?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=QA	https://hh.ru	{'min': None, 'max': None, 'currency': None}
