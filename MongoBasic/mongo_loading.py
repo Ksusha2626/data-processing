@@ -2,11 +2,12 @@ from pprint import pprint
 
 from HTMLParsing.hh_jobs_parsing import parse_jobs
 from pymongo import MongoClient
+from pymongo.errors import DuplicateKeyError
 
 client = MongoClient('127.0.0.1', 27017)
 db = client['jobs']
 hh_jobs = db.hh_jobs
-# hh_jobs.create_index([('link', pymongo.TEXT)], name='index', unique=True)
+hh_jobs.create_index('link', name='index', unique=True)
 
 
 def db_load():
@@ -14,8 +15,10 @@ def db_load():
         hh_jobs.insert_many(parse_jobs())
     else:
         for job in parse_jobs():
-            if not hh_jobs.find_one({'link': job['link']}):
+            try:
                 hh_jobs.insert_one(job)
+            except DuplicateKeyError:
+                print('Duplicate link!')
 
 
 def db_find(query):
