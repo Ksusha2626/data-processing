@@ -14,8 +14,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 M_VIDEO_URL = 'https://www.mvideo.ru/'
 options = Options()
 options.add_argument("start-maximized")
-
-
 # options.add_argument("--headless")
 
 
